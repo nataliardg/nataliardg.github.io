@@ -1,4 +1,5 @@
-Olá, meu nome é Natália Rodrigues, e seja bem vindo!
+
+### Olá, meu nome é Natália Rodrigues, e seja bem vindo!
 
 Sou formada em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera/Anápolis-GO, e estou em busca de uma oportunidade na área de *Analista de Testes*, tenho experiência em estruturação de dados e análise crítica, tenho
 facilidade em ensinar o que sei e tenho força de vontade para aprender.
