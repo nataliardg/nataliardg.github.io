@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+Olá, meu nome é Natália Rodrigues, e seja bem vindo!
 
-You can use the [editor on GitHub](https://github.com/nataliardg/nataliardg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sou formada em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera/Anápolis-GO, e estou em busca de uma oportunidade na área de *Analista de Testes*, tenho experiência em estruturação de dados e análise crítica, tenho
+facilidade em ensinar o que sei e tenho força de vontade para aprender.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Na minha carreira profissional trabalhei como atendente na Callink durante 8 meses e após uma promoção me tornei assistente operacional, fiquei no cargo durante dois anos. Foi quando decidi aproveitar a oportunidade existente na empresa e comecei a trabalhar como assistente de *pcp* (planejamento e controle de produção), houve algumas movimentações na empresa mas no total fiquei no cargo por um ano e dez meses.
 
-### Markdown
+Durante essa minha jornada aprendi a estruturar dados para apresentá-los a clientes, ter uma abordagem resolutiva com os gestores e analisar de maneira profunda as atividades e resultados.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Porém ainda não sentia que era isso que queria como carreira, por isso estou em busca de oportunidades na área que me formei!
 
-```markdown
-Syntax highlighted code block
+Então isso, foi um pouco sobre mim, muito obrigado.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contato
+:email: [natalia.rodrigst@gmail.com](mailto:natalia.rodrigst@gmail.com)
 
-1. Numbered
-2. List
+:calling: [34 9 9697-0830](https://api.whatsapp.com/send?1=pt_BR&phone=553432101234)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nataliardg/nataliardg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:dart: Linkedin: [naty-rodrigues](www.linkedin.com/in/naty-rodrigues)
